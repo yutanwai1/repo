@@ -1,0 +1,11 @@
+g=int(input("grade"))
+if(g>=90):
+    print("優等")
+elif(g>=80):
+    print("甲等")
+elif(g>=70):
+    print("乙等")
+elif(g>=60):
+    print("丙等")
+else:
+    print("丁等")

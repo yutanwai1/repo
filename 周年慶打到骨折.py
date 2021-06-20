@@ -1,0 +1,11 @@
+s=int(input("spend"))
+if(s>=100000):
+    print(s*0.8)
+elif(s>=50000):
+    print(s*0.85)
+elif(s>=30000):
+    print(s*0.9)
+elif(s>=10000):
+    print(s*0.95)
+else:
+    print(s)

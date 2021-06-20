@@ -1,0 +1,5 @@
+u=input("上底")
+d=input("下底")
+h=input("高")
+float(u,d,h)
+print((u+d)*h/2)

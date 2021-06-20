@@ -1,0 +1,5 @@
+c=input("國文成績")
+e=input("英文成績")
+m=input("數學成績")
+float(c,e,m)
+print(c+e+m)
